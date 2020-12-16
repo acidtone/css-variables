@@ -5,6 +5,7 @@ CSS Variables are a really cool way to control CSS. Some experiements and more c
 - [Dynamic Grid](crosshairs): A 2x2 CSS Grid that follows the cursor using CSS Variables derived from mouse coordinates.
 - [Blend Modes Controlled with Mouse](mouse-blendmode): Cycle through blend modes and colours using mouse position. Colour controlled with x-axis position, blend mode effect controlled with y-axis position.
 - [Colour Themes](https://codepen.io/acidtone/pen/VNNWKp): A simple three colour palette controlled with a range slider and CSS Variables. Easter Egg: scroll down to the bottom of the CSS to activate CSS rotation using the same hue angle.
+- [Grid Thermometer](https://codepen.io/acidtone/pen/YbmvrX): A Thermometer based on ovelapping Grid elements and CSS variables.
 
 ## Related Projects
 - [Blend Mode Viewer](https://acidtone.github.io/blendr): A CSS blend mode visualizer.
